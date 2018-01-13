@@ -1,0 +1,19 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[packages]
+
+requests = "*"
+pandas = "*"
+tensorflow = "*"
+scikit-learn = "*"
+scikit-image = "*"
+matplotlib = "*"
+
+
+[dev-packages]
+
